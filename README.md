@@ -1,2 +1,2 @@
 # math_foundations
-mathematics foundations for data science;  graduate level class notes and syllabus 
+Mathematics Foundations for Data Science; Syllabus and Class Notes 
